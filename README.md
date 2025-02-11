@@ -3,6 +3,10 @@
 ## 运行说明
 下载并解压RecommendSystem.zip并解压项目
 
+打开Index和display目录下的view.py，分别修改anime_tag和records处的代码，使之读取根目录下的tag.txt
+
+并修改display目录的view.py中的绝对路径，将其更改为自己电脑上的路径
+
 在Anaconda(或其他已配置好的环境)中进入项目文件夹
 
 cd RecommendSystem
