@@ -7,7 +7,7 @@
 
 cd RecommendSystem
 
-然后运行项目
+然后运行项目(因为项目前端是在Pal_Classify的Django框架基础上改的，所以名字显示为pal_classify)
 
 python manage.py runserver
 
