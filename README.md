@@ -1,4 +1,10 @@
 # Bert-Based-Anime-Eec-System
+## 文件说明
+DataAcquire.ipynb：爬取排名前50的动漫以及对应的标签与长评论
+
+Cutting.ipynb：对长评论进行分词并结合固有标签处理为one-hot向量
+
+
 ## 运行说明
 在Anaconda(或其他已配置好的环境)中进入项目文件夹
 
